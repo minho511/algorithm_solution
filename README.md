@@ -1,1 +1,0 @@
-# Baekjoon Python sol.
