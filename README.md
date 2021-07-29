@@ -4,7 +4,9 @@
 ## 기록  
 #### 2021 07 29
   - baekjoon 1707 이분 그래프 G4(그래프 이론 그래프 탐색 너비 우선 탐색 깊이 우선 탐색)
-    - 이분그래프 개념을 알게됨 [참고](https://gmlwjd9405.github.io/2018/08/23/algorithm-bipartite-graph.html)  
+    - 이분그래프 개념 공부 [참고](https://gmlwjd9405.github.io/2018/08/23/algorithm-bipartite-graph.html)  
+    <img src = "https://gmlwjd9405.github.io/images/data-structure-graph/bipartite-graph1.gif" width = "400" height = "160" >  
+    
 #### 2021 07 28
   - baekjoon 6064 카잉 달력 S1(수학 정수론 중국인의 나머지 정리)
   - baekjoon 16968 차량 번호판 B1(수학 조합론)  
