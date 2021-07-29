@@ -2,6 +2,10 @@
 알고리즘 공부를 위한 저장소
 
 ## 기록  
+#### 2021 07 30
+  - baekjoon 1021 회전하는 큐 S4(자료구조 덱)
+    - deque.rotate를 사용하여 풀었다.  
+
 #### 2021 07 29
   - baekjoon 1707 이분 그래프 G4(그래프 이론 그래프 탐색 너비 우선 탐색 깊이 우선 탐색)
     - 이분그래프 개념 공부 [참고](https://gmlwjd9405.github.io/2018/08/23/algorithm-bipartite-graph.html)  
