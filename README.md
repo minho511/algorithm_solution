@@ -8,7 +8,7 @@
     <img src = "https://gmlwjd9405.github.io/images/data-structure-graph/bipartite-graph1.gif" width = "400" height = "160" >  
   - baekjoon 1374 강의실 G5(자료 구조 그리디 알고리즘 정렬 우선순위 큐)
   - baekjoon 7569 토마토 S1(그래프 이론 그래프 탐색 너비 우선 탐색)
-    - 
+    - PyPy3로는 정답처리 받았으나 Python3로는 시간 초과.. 다른 코드 참고  
 
 #### 2021 07 28
   - baekjoon 6064 카잉 달력 S1(수학 정수론 중국인의 나머지 정리)
