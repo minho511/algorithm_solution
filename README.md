@@ -1,7 +1,7 @@
-# algorithm_sol
-알고리즘 공부를 위한 저장소
+# algorithm_sol  
+알고리즘 공부를 위한 저장소  
 
-## 기록  
+## 기록
 #### 2021 07 30
   - baekjoon 1021 회전하는 큐 S4(자료구조 덱)
     - deque.rotate를 사용하여 풀었다.  
