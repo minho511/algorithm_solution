@@ -7,6 +7,9 @@
   - baekjoon 15657 N과 M (8) S3(백트래킹)
   - baekjoon 15663 N과 M (9) S2(백트래킹)
   - baekjoon 15666 N과 M (12) S2(백트래킹)
+  > itertools의 product(), permutations(), combinations(), combinations_with_replacement()  
+  > 를 이용하여 쉽게 풀수있다.  
+
 
 #### 2021 08 05
   - baekjoon 15989 1,2,3 더하기 4 S1(다이나믹프로그래밍)
