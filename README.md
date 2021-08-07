@@ -9,8 +9,10 @@
   - baekjoon 15666 N과 M (12) S2(백트래킹)
   > itertools의 product(), permutations(), combinations(), combinations_with_replacement()  
   > 를 이용하여 쉽게 풀수있다.  
+  - baekjoon 16953 A → B S1(그래프 이론 그리디 알고리즘 그래프 탐색 너비 우선 탐색)
 
 
+  
 #### 2021 08 05
   - baekjoon 15989 1,2,3 더하기 4 S1(다이나믹프로그래밍)
   - baekjoon 15990 1,2,3 더하기 5 S3(다이나믹프로그래밍)
