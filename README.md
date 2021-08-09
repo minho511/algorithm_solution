@@ -2,6 +2,11 @@
 알고리즘 공부를 위한 저장소  
 
 ## 기록
+#### 2021 08 09
+  - baekjoon 1629 곱셈 S1(수학 분할 정복을 이용한 거듭제곱)
+    - 분할 정복을 이용한 거듭제곱을 처음 알았다. [참고](https://mygumi.tistory.com/319)
+    <img src = "https://media.vlpt.us/images/ghyeon1946/post/a118b128-f131-48d2-88a1-b2b4fccec6e5/image.png" width = "400" height = "160" >
+
 #### 2021 08 08 
   - baekjoon 2407 조합 S2(수학 다이나믹 프로그래밍 조합론 임의 정밀도 / 큰 수 연산)
   - baekjoon 11660 구간 합 구하기 5 S1(다이나믹 프로그래밍 누적합)
