@@ -5,7 +5,8 @@
 ## 2021년 8월
 #### 2021 08 17
   - baekjoon 9251 LCS G5(다이나믹 프로그래밍)
-
+  - baekjoon 9663 N-Queen G5(백트래킹 브루트포스)
+    - 여덟 퀸 문제 [참고](https://ko.wikipedia.org/wiki/%EC%97%AC%EB%8D%9F_%ED%80%B8_%EB%AC%B8%EC%A0%9C)
 
 #### 2021 08 14
   - baekjoon 1918 후위 표기식 G3(자료구조 스택)
