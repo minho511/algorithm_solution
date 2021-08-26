@@ -6,7 +6,7 @@
 #### 2021 08 26
   - baekjoon 9177 단어 섞기 G5(다이나믹 프로그래밍 그래프 이론 문자열 그래프 탐색 너비 우선 탐색)
   - baekjoon 1865 웜홀 G3(그래프 이론 벨만–포드)
-    - 음의 간선이 존재할 때는 다익스트라 X 벨만-포드 알고리즘을 써야한다. [링크](https://www.youtube.com/watch?v=Ppimbaxm8d8)
+    - 최단거리 문제에서 음의 간선이 존재할 때는 다익스트라 알고리즘이 아닌 벨만-포드 알고리즘을 써야한다. [링크](https://www.youtube.com/watch?v=Ppimbaxm8d8)
 
 
   
