@@ -30,7 +30,3 @@ def solution(weights, head2head):
     for i in range(n):
         answer.append(data[i][-1])
     return answer
-
-
-print(solution([50,82,75,120],["NLWL","WNLL","LWNW","WWLN"]))
-# result = [3,4,1,2]
