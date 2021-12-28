@@ -1,0 +1,79 @@
+## Algorithm
+
+
+### Kadane's Algorithm(카데인 알고리즘)
+2021.12.27
+___
+- Dynamic Programming 기법 중 하나
+- 최대 부분 합을 구할때 유용한 알고리즘
+- O(n)의 시간복잡도
+___
+
+```python
+local_max[i] = max(A[i] + local_max[i-1], A[i])
+```
+[참고](https://www.youtube.com/watch?v=86CQq3pKSUw)
+___
+
+
+### Linked List
+2021.12.28
+___
+- 데이터 요소의 선형 집합
+- 데이터 순서가 메모리에 물리적인 순서대로 저장되지 않는다.
+- 다양한 추상 자료형의 기반이 된다.  
+- 장점
+    - 동적으로 새로운 노드 삽입-제거 용이, 관리가 쉽다 (O(1) 시간 복잡도)
+    
+- 단점
+    - 특정 인덱스 접근시 전체를 순서대로 읽어야함 (O(n) 시간 복잡도)
+    
+- 참고 코드
+```python
+class Node:
+    def __init__(self, dataval=None):
+        self.dataval = dataval
+        self.nextval = None
+
+class SLinkedList:
+    def __init__(self):
+        self.headval = None
+
+    def listprint(self):
+        printval = self.headval
+        while printval is not None:
+            print(printval.dataval)
+            printval = printval.nextval
+    def AtEnd(self, newdata):
+        NewNode = Node(newdata)
+        if self.headval is None:
+            self.headval = NewNode
+            return
+        laste = self.headval
+        while(laste.nextval):
+            laste = laste.nextval
+        laste.nextval = NewNode
+
+    def AtBegining(self, newdata):
+        NewNode = Node(newdata)
+
+        NewNode.nextval = self.headval
+        self.headval = NewNode
+
+list = SLinkedList()
+list.headval = Node("Mon")
+e2 = Node("Tue")
+e3 = Node("Wed")
+
+list.headval.nextval = e2
+
+e2.nextval = e3
+
+list.AtBegining("Sun")
+list.listprint()
+
+# Sun
+# Mon
+# Tue
+# Wed
+```
