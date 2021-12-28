@@ -1,4 +1,4 @@
-## Algorithm
+## Algorithm & data structure
 
 
 ### Kadane's Algorithm(카데인 알고리즘)
@@ -76,4 +76,25 @@ list.listprint()
 # Mon
 # Tue
 # Wed
+```
+___
+### Deque
+2021.12.28
+___
+- 양방향 큐(queue)
+- container의 양 끝 요소에 접근하여 삽입-제거하는 하는데 빠르게 동작. (O(1))
+- 코드
+```python
+from collections import deque
+deq = deque()
+deq.appendleft(1)
+deq.append(2)
+deq.popleft() # 1
+deq.pop() # 2
+```
+- 추가적으로 rotate() 메서드가 있다.
+```python
+deq = deque([1,2,3,4])
+deq.rotate(1)  # [4,1,2,3]
+de.rotate(-2)  # [2,3,4,1]
 ```
