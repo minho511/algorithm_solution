@@ -3,7 +3,7 @@
 2022-06
 ___
 - 2022-06-12
-    - [(10815) 숫자 카드](https://github.com/minho511/algorithm_solution/blob/master/baekjoon_python/%5B10815%5D%20%EC%88%AB%EC%9E%90%20%EC%B9%B4%EB%93%9C.py) S5(자료구조 정렬 이분 탐색)
+    - [(BOJ 10815) 숫자 카드](https://github.com/minho511/algorithm_solution/blob/master/baekjoon_python/%5B10815%5D%20%EC%88%AB%EC%9E%90%20%EC%B9%B4%EB%93%9C.py) S5(자료구조 정렬 이분 탐색)
         > 이진 검색 모듈 bisect을 활용한 풀이
         ```python
         def bin_search(data, target):
@@ -22,3 +22,9 @@ ___
             print(int(card in cards), end=' ')
         ```
         `cards를 담을 때 set()을 사용하여 중복값을 제거하여 시간 초과 해결`
+
+    </br>
+
+    - [(LeetCode 200) Number of Islands](https://leetcode.com/problems/number-of-islands/) (그래프이론 bfs dfs)
+        - 아주 기초적인 DFS, BFS 문제
+        - [LeetCode 풀이 업로드](https://github.com/minho511/algorithm_solution/blob/master/leetcode/200_Number%20of%20Islands.ipynb)
