@@ -2,6 +2,12 @@
 
 2022-06
 ___
+- 2022-06-22
+    - [(BOJ 14622) 소수 게임](https://github.com/minho511/algorithm_solution/blob/master/baekjoon_python/%5B14622%5D%20%EC%86%8C%EC%88%98%20%EA%B2%8C%EC%9E%84.py) G4(수학 구현 자료구조 정수론 우선순위큐 소수판정 에라토스테네스의 체)  
+    - [(BOJ 1091) 카드 섞기](https://github.com/minho511/algorithm_solution/blob/master/baekjoon_python/%5B1091%5D%EC%B9%B4%EB%93%9C%20%EC%84%9E%EA%B8%B0.py) G5(구현 시뮬레이션)
+
+
+    
 - 2022-06-12
     - [(BOJ 10815) 숫자 카드](https://github.com/minho511/algorithm_solution/blob/master/baekjoon_python/%5B10815%5D%20%EC%88%AB%EC%9E%90%20%EC%B9%B4%EB%93%9C.py) S5(자료구조 정렬 이분 탐색)
         > 이진 검색 모듈 bisect을 활용한 풀이
