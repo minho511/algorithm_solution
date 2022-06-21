@@ -3,6 +3,7 @@
 2022-06
 ___
 - 2022-06-22
+    - [(BOJ 2225) 분해합](https://github.com/minho511/algorithm_solution/blob/master/baekjoon_python/%5B2225%5D%20%ED%95%A9%EB%B6%84%ED%95%B4.py) G5(수학 다이나믹 프로그래밍)
     - [(BOJ 1759) 암호 만들기](https://github.com/minho511/algorithm_solution/blob/master/baekjoon_python/%5B1759%5D%20%EC%95%94%ED%98%B8%20%EB%A7%8C%EB%93%A4%EA%B8%B0.py) G5(수학 브루트포스 알고리즘 조합론 백트래킹)
     - [(BOJ 14622) 소수 게임](https://github.com/minho511/algorithm_solution/blob/master/baekjoon_python/%5B14622%5D%20%EC%86%8C%EC%88%98%20%EA%B2%8C%EC%9E%84.py) G4(수학 구현 자료구조 정수론 우선순위큐 소수판정 에라토스테네스의 체)  
     - [(BOJ 1091) 카드 섞기](https://github.com/minho511/algorithm_solution/blob/master/baekjoon_python/%5B1091%5D%EC%B9%B4%EB%93%9C%20%EC%84%9E%EA%B8%B0.py) G5(구현 시뮬레이션)
