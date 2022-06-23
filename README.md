@@ -3,7 +3,7 @@
 2022-06
 ___
 - 2022-06-23
-    - [(BOJ 15686) 치킨 배달](https://github.com/minho511/algorithm_solution/blob/master/baekjoon_python/%5B15686%5D%20%EC%B9%98%ED%82%A8%EB%B0%B0%EB%8B%AC.py)  
+    - [(BOJ 15686) 치킨 배달](https://github.com/minho511/algorithm_solution/blob/master/baekjoon_python/%5B15686%5D%20%EC%B9%98%ED%82%A8%EB%B0%B0%EB%8B%AC.py) G5(구현 브루트포스 백트래킹)  
 
 
 - 2022-06-22
