@@ -2,6 +2,10 @@
 
 2022-06
 ___
+- 2022-06-23
+    - [(BOJ 15686) 치킨 배달](https://github.com/minho511/algorithm_solution/blob/master/baekjoon_python/%5B15686%5D%20%EC%B9%98%ED%82%A8%EB%B0%B0%EB%8B%AC.py)  
+
+
 - 2022-06-22
     - [(BOJ 2225) 분해합](https://github.com/minho511/algorithm_solution/blob/master/baekjoon_python/%5B2225%5D%20%ED%95%A9%EB%B6%84%ED%95%B4.py) G5(수학 다이나믹 프로그래밍)
     - [(BOJ 1759) 암호 만들기](https://github.com/minho511/algorithm_solution/blob/master/baekjoon_python/%5B1759%5D%20%EC%95%94%ED%98%B8%20%EB%A7%8C%EB%93%A4%EA%B8%B0.py) G5(수학 브루트포스 알고리즘 조합론 백트래킹)
