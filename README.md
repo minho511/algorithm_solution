@@ -2,10 +2,10 @@
 
 2022-06
 ___
+- 2022-06-25
+    - [(BOJ 1238) 파티](https://github.com/minho511/algorithm_solution/blob/master/baekjoon_python/%5B1238%5D%20%ED%8C%8C%ED%8B%B0.py) G3(그래프이론 다익스트라)
 - 2022-06-24
     - [(BOJ 2448) 별 찍기 -11](https://github.com/minho511/algorithm_solution/blob/master/baekjoon_python/%5B2448%5D%20%EB%B3%84%20%EC%B0%8D%EA%B8%B0%20-%2011.py) G4(재귀)
-
-- 2022-06-24
     - [(BOJ 17144) 미세먼지 안녕](https://github.com/minho511/algorithm_solution/blob/master/baekjoon_python/%5B17144%5D%20%EB%AF%B8%EC%84%B8%EB%A8%BC%EC%A7%80%20%EC%95%88%EB%85%95.py) G4(구현 시뮬레이션)
 - 2022-06-23
     - [(BOJ 15686) 치킨 배달](https://github.com/minho511/algorithm_solution/blob/master/baekjoon_python/%5B15686%5D%20%EC%B9%98%ED%82%A8%EB%B0%B0%EB%8B%AC.py) G5(구현 브루트포스 백트래킹)  
