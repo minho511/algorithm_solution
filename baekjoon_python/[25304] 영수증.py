@@ -1,5 +1,5 @@
-# type of problem
-# link
+# 수학 구현 사칙연산
+# https://www.acmicpc.net/problem/25304
 import sys; input=sys.stdin.readline
 
 x = int(input())
