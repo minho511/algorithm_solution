@@ -1,12 +1,14 @@
 #include <bits/stdc++.h>
+#define ll long long
+
 using namespace std;
 
 void solve(){
-    int n;
-    int ans;
+    ll n;
+    ll ans;
     cin >>n;
     if(n%2==0) ans = n/2;
-    else ans = n*2*(-1)-1;
+    else ans = -(n+1)/2;
     cout << ans;
 }
 

@@ -4,7 +4,16 @@
 using namespace std;
 
 void solve(){
-
+    ll n, k;
+    ll ans;
+    cin >> n >> k;
+    if((n+1)/2<k){
+        ans = (k-(n+1)/2)*2;
+    }
+    else{
+        ans = k*2-1;
+    }
+    cout << ans;
 }
 
 int main(){
