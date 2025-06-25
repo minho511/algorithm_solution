@@ -71,5 +71,6 @@
         "typeinfo": "cpp",
         "valarray": "cpp",
         "charconv": "cpp"
-    }
+    },
+    "C_Cpp.errorSquiggles": "disabled"
 }
