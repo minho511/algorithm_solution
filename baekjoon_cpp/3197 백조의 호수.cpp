@@ -59,6 +59,6 @@ int main(){
     }
 
     bfs(x1, Y1);
-    cout << cnt/2+cnt%2;
+    
     return 0;
 }
